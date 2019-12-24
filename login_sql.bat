@@ -1,0 +1,1 @@
+mysql -uroot -p.t5yCi*8_sXB
